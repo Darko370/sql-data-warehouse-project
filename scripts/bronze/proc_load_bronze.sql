@@ -15,7 +15,7 @@ Parameters:
 Usage example:
     EXEC bronze.load_bronze;
 ===========================================================================================
-/*
+*/
 
 
 CREATE OR ALTER PROCEDURE  bronze.load_bronze AS 

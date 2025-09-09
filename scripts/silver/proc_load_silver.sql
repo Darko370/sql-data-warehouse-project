@@ -16,6 +16,8 @@ Parameters:
 Usage example:
     EXEC silver.load_bronze;
 ===========================================================================================*/
+
+
 CREATE OR ALTER PROCEDURE silver.load_silver AS 
 BEGIN
 ----------------------------------------------------------------------------

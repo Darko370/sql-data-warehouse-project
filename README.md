@@ -72,6 +72,8 @@ data-warehouse-project/
 
 Economics graduate moving into data analytics, especially sales and finance analytics. I built this SQL Data Warehouse to demonstrate reliable pipelines and business-ready tables (dimensions/facts) for reporting and ad-hoc analysis. I like clear metrics, simple models, and readable SQL.
 
-**Tools:** SQL Server & SSMS, T-SQL, Python (pandas), basic Power BI, CSV → DW ETL.
+**Tools:** SQL Server & SSMS, T-SQL, Python (pandas), basic Power BI.
   
-**LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/darkomilic370/) · **GitHub:** [github.com/your-handle](https://github.com/Darko370) · **Email:** milicdarko2010@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darkomilic370/) ·
+**GitHub:** [github.com/your-handle](https://github.com/Darko370) · 
+**Email:** milicdarko2010@gmail.com

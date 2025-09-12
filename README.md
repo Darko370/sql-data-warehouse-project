@@ -69,7 +69,7 @@ data-warehouse-project/
 ---
 ## 🌟 About Me
 
-Economics graduate moving into data analytics, especially sales and finance analytics. I built this SQL Data Warehouse to demonstrate reliable pipelines and business-ready tables (dimensions/facts) for reporting and ad-hoc analysis. I like clear metrics, simple models, and readable SQL.
+Hi there! I am ** Darko Milic *** , Economics graduate moving into data analytics, especially sales and finance analytics. I built this SQL Data Warehouse to demonstrate reliable pipelines and business-ready tables (dimensions/facts) for reporting and ad-hoc analysis. 
 
 **Tools:** SQL Server & SSMS, T-SQL, Python (pandas), basic Power BI.
   

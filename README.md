@@ -1,5 +1,3 @@
-# sql-data-warehouse-project
-Building a modern Data Warehouse project with SQL Server, includin ETL processes, data modeling and analytics.
 # SQL Data Warehouse (Medallion) — Portfolio Project
 
 **One-liner:** I built a small SQL Server data warehouse (Bronze → Silver → Gold) and wrote analysis queries that answer real business questions about customers, products, and sales. This repository is a **proof of my SQL + data modeling + analysis skills**.

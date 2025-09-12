@@ -65,7 +65,13 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## 🌟 About Me
+## 🌟 About Me
+
+Economics graduate moving into data analytics, especially sales and finance analytics. I built this SQL Data Warehouse to demonstrate reliable pipelines and business-ready tables (dimensions/facts) for reporting and ad-hoc analysis. I like clear metrics, simple models, and readable SQL.
+
+**Tools:** SQL Server & SSMS, T-SQL, Python (pandas), basic Power BI, CSV → DW ETL.
+  
+**LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/darkomilic370/) · **GitHub:** [github.com/your-handle](https://github.com/Darko370) · **Email:** milicdarko2010@gmail.com

@@ -78,5 +78,5 @@ Economics graduate moving into data analytics, especially sales and finance anal
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darko370)
 ---
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milicdarko2010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)] (milicdarko2010@gmail.com)
 

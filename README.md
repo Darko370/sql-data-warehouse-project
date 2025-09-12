@@ -68,7 +68,6 @@ data-warehouse-project/
 ```
 ---
 ## 🌟 About Me
-## 🌟 About Me
 
 Economics graduate moving into data analytics, especially sales and finance analytics. I built this SQL Data Warehouse to demonstrate reliable pipelines and business-ready tables (dimensions/facts) for reporting and ad-hoc analysis. I like clear metrics, simple models, and readable SQL.
 
@@ -78,5 +77,6 @@ Economics graduate moving into data analytics, especially sales and finance anal
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darko370)
 ---
-(mailto:milicdarko2010@gmail.com?subject=Hello%20Darko&body=Nice%20project!)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=milicdarko2010@gmail.com)
+
 
